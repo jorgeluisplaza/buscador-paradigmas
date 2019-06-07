@@ -1,0 +1,8 @@
+Profesor:
+Se corrige codigo y en menor medida el manual de usuario (temas de formato y/o algunos parrafos).
+
+Mencionar que el primer laboratorio se programó sobre el sistema windows. Esta vez
+se instala ubuntu exclusivamente para corregir el codigo.
+
+Saludos cordiales y gracias de antemano.
+Jorge Plaza - 18641335-0
